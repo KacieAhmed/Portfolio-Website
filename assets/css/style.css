@@ -1194,7 +1194,7 @@ section {
 
 
 #page_5{
-height: 750px;
+height: 100%;
 background: url("../img/water.jpeg");
 background-size: cover;
 
@@ -1233,7 +1233,8 @@ margin-right: 10%;
   height: 500px;
       /* background-color: rgb(52,82,49); */
       background-color: rgb(240,240,240);
-  padding-top: 50px;
+  /* padding-top: 5%; */
+  margin-top: -0.5%;
   }
 
 
